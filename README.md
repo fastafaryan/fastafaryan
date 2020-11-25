@@ -45,7 +45,7 @@
     <td align="top" width="50%">
       <h2 align="center">Sanal Menu</h2>
       <div align="center">
-        <a href="https://github.com/fastafaryan/sanalmenu">
+        <a href="https://github.com/fastafaryan/sanal_menu">
           <img src="https://github.com/fastafaryan/sanal_menu/blob/master/assets/screenshots/customer-menu.png" width="30%"/>
           <img src="https://github.com/fastafaryan/sanal_menu/blob/master/assets/screenshots/menu-item-popup.png" width="30%"/>
           <img src="https://github.com/fastafaryan/sanal_menu/blob/master/assets/screenshots/customer-orders.png" width="30%"/>
