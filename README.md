@@ -1,4 +1,3 @@
-<h2>Welcome to my GitHub page 👋 You can check out my projects below.</h2>
 <table>
 	<tr>
 		<td align="top" width="33%">
