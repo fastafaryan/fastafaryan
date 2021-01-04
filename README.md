@@ -60,7 +60,7 @@
 			<h5 align="center">Blender Models</h5>
 			<div align="center">
 				<a href="https://github.com/fastafaryan/blender">
-					<img src="https://github.com/fastafaryan/blender/blob/main/Character/Character.gif" width="100%"/>
+					<img src="https://github.com/fastafaryan/blender/blob/main/Character/Renders/Character.gif" width="100%"/>
 				</a>
 			</div>
 		</td>
