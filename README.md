@@ -4,7 +4,7 @@
 			<h5 align="center">Chess Game</h5>
 			<div align="center">
 				<a href="https://github.com/yilmazfatih6/chess/">
-					<img src="https://github.com/yilmazfatih6/chess/blob/master/screenshot.png" style="display:block;" width="100%"/>
+					<img src="https://github.com/yilmazfatih6/chess/blob/master/thumbnail.gif" style="display:block;" width="100%"/>
 				</a>
 			</div>
 			<h5 align="center">Differential Drive Robot Simulation</h5>
